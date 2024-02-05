@@ -7,12 +7,4 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\ServerLib\ServerLib.csproj" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <Folder Include="Session\" />
-  </ItemGroup>
-
 </Project>
